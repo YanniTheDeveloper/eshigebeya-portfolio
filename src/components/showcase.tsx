@@ -12,9 +12,10 @@ const items = [
   },
   {
     tag: "Clothing",
-    title: "New Season",
-    img: "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=800&q=80",
-    alt: "Women's fashion look",
+    title: "Gold Button Set",
+    img: "/products/gold-button-set.jpg",
+    alt: "Women's brown two-piece set with gold button details",
+    tall: true,
   },
   {
     tag: "Shoes",
@@ -27,12 +28,6 @@ const items = [
     title: "Gold Hour",
     img: "https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=800&q=80",
     alt: "Gold necklace",
-  },
-  {
-    tag: "Clothing",
-    title: "City Muse",
-    img: "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=800&q=80",
-    alt: "Woman in stylish outfit",
   },
 ];
 
