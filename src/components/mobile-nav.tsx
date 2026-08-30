@@ -12,7 +12,7 @@ export function MobileNav() {
   return (
     <nav
       aria-label="Mobile navigation"
-      className="fixed inset-x-0 bottom-0 z-50 border-t border-ivory/10 bg-espresso/95 pb-[env(safe-area-inset-bottom)] backdrop-blur-xl md:hidden"
+      className="fixed inset-x-0 bottom-0 z-50 border-t border-ivory/10 bg-espresso pb-[env(safe-area-inset-bottom)] [transform:translateZ(0)] md:hidden"
     >
       <div className="grid grid-cols-5 items-end px-2 py-2">
         {links.slice(0, 2).map((link) => (
