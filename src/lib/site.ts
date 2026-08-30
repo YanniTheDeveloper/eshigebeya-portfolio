@@ -16,7 +16,7 @@ export const site = {
   },
   // Order CTAs open direct message threads
   messages: {
-    telegram: "https://t.me/eshigebeya",
+    telegram: "https://t.me/Edlsolomon",
     instagram: "https://ig.me/m/eshigebeya",
   },
   nav: [
